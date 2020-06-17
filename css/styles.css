@@ -131,18 +131,18 @@ a:hover{
 
 .bottomcloud {
   position: absolute;
-  height: 8.125rem;
-  width: 8.125rem;
-  left: 20%;
-  top: 45%;
+  height: 7.125rem;
+  width: 7.125rem;
+  left: 20rem;
+  top: 30rem;;
 }
 
 .topcloud {
-  height: 8.125rem;
-  width: 8.125rem;
+  height: 7.125rem;
+  width: 7.125rem;
   position: absolute;
-  top: 25%;
-  right: 20%;
+  top: 15rem;
+  right: 20rem;
   display: inline-block;
 }
 
